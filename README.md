@@ -1,4 +1,6 @@
 # ML-Assignment2 
+The main assignment was to assess and analyze two data sets and find which machine learning task would be the best. All of my work is best seen through tasks 2, which I added the findings below that we as a group concluded to.
+
 Task 2 Findings
 
 The purpose of this model is to predict the quality of wine based on various attributes using regression analysis. 
